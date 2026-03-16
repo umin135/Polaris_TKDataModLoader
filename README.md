@@ -1,9 +1,9 @@
 # Polaris_TKDataModLoader
-_We manage the source code in a private repository because we do not want this to be exploited for cheating._
+_We manage the source code in a private repository because we do not want this to be exploited for cheating._<br>
 _So, this repository is simply for updating releases and game addresses._
 
 ## Introduction
-This is a mod loader designed to mod the tkdata.bin file located at the following path in TEKKEN 8:
+This is a mod loader designed to mod the tkdata.bin file located at the following path in TEKKEN 8:<br>
 TEKKEN 8\Polaris\Content\Binary\pak\tkdata.bin
 
 This file contains a large amount of data that cannot be modified through regular Unreal Engine modding.
@@ -20,20 +20,20 @@ We will try to prepare more documentation and tutorials as soon as possible.
 [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
 
 ## Installation
-After extracting, place the asi and PolarisTkdataModLoader folders in the following path:
+After extracting, place the asi and PolarisTkdataModLoader folders in the following path:<br>
 TEKKEN 8\Polaris\Binaries\Win64
 
 ## How to use
 Press Ctrl + P to display the overlay menu.
 
 ## Project support
-Do you have sufficient knowledge of binary files and reverse engineering?
+Do you have sufficient knowledge of binary files and reverse engineering?<br>
 If so, please come to our Discord server and help us!
 
 [Modding Zaibatsu Discord](https://discord.gg/nCAeJE4z5U)
 
 ## Credits
-UMIN - Tool development
+UMIN - Tool development<br>
 Ali - tkdata.bin / Game reversing
 
 
