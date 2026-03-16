@@ -17,7 +17,7 @@ We will try to prepare more documentation and tutorials as soon as possible.
 
 
 ## Requirements
-[Ultimate ASI Loader](https://tekkenmods.com/mod/6930/ultimate-asi-loader-for-tekken-8)
+[Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
 
 ## Installation
 After extracting, place the asi and PolarisTkdataModLoader folders in the following path:
