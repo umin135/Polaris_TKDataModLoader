@@ -31,3 +31,12 @@ Do you have sufficient knowledge of binary files and reverse engineering?
 If so, please come to our Discord server and help us!
 
 [Modding Zaibatsu Discord](https://discord.gg/nCAeJE4z5U)
+
+## Credits
+UMIN - Tool development
+Ali - tkdata.bin / Game reversing
+
+
+
+
+
