@@ -1,0 +1,7 @@
+[Settings]
+TargetOffset=0x5A17630
+PathBuilderOffset=0x0
+StllstbInjectOffset=0x5C10157
+StllstbPathBufRVA=0x853A178
+GameModeBaseRVA=0x9B611D8
+GameModeOffsets=0x50,0x8,0x18,0x8,0x0

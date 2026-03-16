@@ -1,0 +1,50 @@
+# Code | Name
+GRF|Paul
+PIG|Law
+PGN|King
+CML|Yoshimitsu
+SNK|Hwoarang
+RAT|Ling Xiaoyu
+ANT|Jin
+CHT|Bryan
+GRL|Kazuya
+BSN|Steve
+CCN|Jack-8
+DER|Asuka
+SWL|Devil Jin
+KLW|Feng
+HMS|Lili
+KMD|Dragunov
+GHP|Leo
+LZD|Lars
+MNT|Alisa
+CTR|Claudio
+HRS|Shaheen
+KAL|Nina
+WLF|Lee
+RBT|Kuma
+TTR|Panda
+CRW|Zafina
+JLY|Leroy
+AML|Jun
+ZBR|Reina
+CAT|Azucena
+LON|Victor
+BBN|Raven
+GOT|Azazel
+DOG|Eddy
+CBR|Lidia
+BEE|Heihachi
+OKM|Clive
+KGR|Anna
+KNK|Armor King
+WKZ|Miary Zo
+DEK|Practice Dummy
+XXA|Angel Jin
+XXB|True Devil Kazuya
+XXC|Jack-7
+XXD|Soldier
+XXE|Devil Jin (Jin's voice)
+XXF|Tekken Monk
+XXG|Seiryu
+S28|Devil Reina
