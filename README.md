@@ -24,7 +24,9 @@ After extracting, place the asi and PolarisTkdataModLoader folders in the follow
 TEKKEN 8\Polaris\Binaries\Win64
 
 ## How to use
-Press Ctrl + P to display the overlay menu.
+[English](https://github.com/umin135/Polaris_TKDataModLoader/blob/main/documents/en_001.md) [Korean](https://github.com/umin135/Polaris_TKDataModLoader/blob/main/documents/kr_001.md)
+
+
 
 ## Project support
 Do you have sufficient knowledge of binary files and reverse engineering?<br>
