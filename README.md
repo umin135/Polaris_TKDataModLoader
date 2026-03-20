@@ -37,4 +37,4 @@ If so, please come to our Discord server and help us!
 ## Credits
 UMIN - Tool development<br>
 Ali - Game reversing<br>
-dawc17 - Game reversing / Tool development<br>
+dawc17 - Game reversing / Tool development<br><br>
