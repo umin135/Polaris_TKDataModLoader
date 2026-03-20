@@ -36,7 +36,8 @@ If so, please come to our Discord server and help us!
 
 ## Credits
 UMIN - Tool development<br>
-Ali - tkdata.bin / Game reversing
+Ali - Game reversing<br>
+dawc17 - Game reversing / Tool development
 
 
 
