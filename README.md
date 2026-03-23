@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/umin135/Polaris_TKDataModLoader/refs/heads/main/readme-res/banner_Loader.png" /><br>
 # Polaris_TKDataModLoader
 _We manage the source code in a private repository because we do not want this to be exploited for cheating._<br>
 _So, this repository is simply for updating releases and game addresses._
