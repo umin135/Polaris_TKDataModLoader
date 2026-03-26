@@ -19,10 +19,10 @@ We will try to prepare more documentation and tutorials as soon as possible.
 - !!!WIP - Custom item slots injection
 
 ## Requirements
-[Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
+[Ultimate ASI Loader](blob:https://github.com/d1cf69ef-df91-491f-a6d9-f1f6782110ac)
 
 ## Installation
-After extracting, place the asi and PolarisTkdataModLoader folders in the following path:<br>
+After extracting, place the asi file, dinput8.dll (see above) and PolarisTkdataModLoader folders in the following path:<br>
 TEKKEN 8\Polaris\Binaries\Win64
 
 ## How to use
