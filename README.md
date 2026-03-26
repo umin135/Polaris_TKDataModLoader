@@ -11,11 +11,12 @@ This file contains a large amount of data that cannot be modified through regula
 It includes very important data such as character movesets, the character list, and the list of customization items. We created this tool in order to make modding this data possible.
 
 Extracting the entire contents of tkdata.bin and repackaging it again is a very heavy and unstable process. With this tool, only the modified files can be injected at runtime.
-Currently, only moveset data can be injected, and there are still many things we need to discover and research.
 
 We will try to prepare more documentation and tutorials as soon as possible.
 
-
+## Features
+- Custom moveset injection
+- !!!WIP - Custom item slots injection
 
 ## Requirements
 [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
@@ -26,8 +27,6 @@ TEKKEN 8\Polaris\Binaries\Win64
 
 ## How to use
 [English](https://github.com/umin135/Polaris_TKDataModLoader/blob/main/documents/en_001.md) [Korean](https://github.com/umin135/Polaris_TKDataModLoader/blob/main/documents/kr_001.md)
-
-
 
 ## Project support
 Do you have sufficient knowledge of binary files and reverse engineering?<br>
