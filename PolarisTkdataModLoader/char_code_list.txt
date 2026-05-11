@@ -37,6 +37,7 @@ CBR|Lidia
 BEE|Heihachi
 OKM|Clive
 KGR|Anna
+TGR|Fahkumram
 KNK|Armor King
 WKZ|Miary Zo
 DEK|Practice Dummy
@@ -48,3 +49,4 @@ XXE|Devil Jin (Jin's voice)
 XXF|Tekken Monk
 XXG|Seiryu
 S28|Devil Reina
+TGR|Fahkumram
