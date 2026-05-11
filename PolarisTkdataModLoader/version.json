@@ -1,9 +1,12 @@
 {
-  "version": "0.2",
-  "dis_version": "v0.2",
+  "version": "0.700",
+  "dis_version": "v0.700",
   "files": [
-    { "src": "PolarisTkdataModLoader.asi",            "dst": "PolarisTkdataModLoader.asi" },
-    { "src": "PolarisTkdataModLoader/version.json",   "dst": "PolarisTkdataModLoader/version.json" },
-    { "src": "dinput8.dll",                           "dst": "dinput8.dll" }
+    { "src": "PolarisTkdataModLoader.asi",                  "dst": "PolarisTkdataModLoader.asi" },
+    { "src": "dinput8.dll",                                 "dst": "dinput8.dll" },
+    { "src": "PolarisTkdataModLoader/version.json",         "dst": "PolarisTkdataModLoader/version.json" },
+    { "src": "PolarisTkdataModLoader/addresses.txt",        "dst": "PolarisTkdataModLoader/addresses.txt" },
+    { "src": "PolarisTkdataModLoader/char_code_list.txt",   "dst": "PolarisTkdataModLoader/char_code_list.txt" },
+    { "src": "PolarisTkdataModLoader/tkdata_names.txt",     "dst": "PolarisTkdataModLoader/tkdata_names.txt" }
   ]
 }
