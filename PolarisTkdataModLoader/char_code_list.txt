@@ -40,6 +40,7 @@ KGR|Anna
 TGR|Fahkumram
 KNK|Armor King
 WKZ|Miary Zo
+KER|Kunimitsu
 DEK|Practice Dummy
 XXA|Angel Jin
 XXB|True Devil Kazuya
