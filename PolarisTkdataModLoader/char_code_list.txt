@@ -50,4 +50,3 @@ XXE|Devil Jin (Jin's voice)
 XXF|Tekken Monk
 XXG|Seiryu
 S28|Devil Reina
-TGR|Fahkumram
