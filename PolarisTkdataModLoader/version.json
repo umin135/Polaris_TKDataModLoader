@@ -1,6 +1,6 @@
 {
-  "version": "0.8021",
-  "dis_version": "v0.802",
+  "version": "0.803",
+  "dis_version": "v0.803",
   "files": [
     { "src": "PolarisTkdataModLoader.asi",                  "dst": "PolarisTkdataModLoader.asi" },
     { "src": "dinput8.dll",                                 "dst": "dinput8.dll" },
