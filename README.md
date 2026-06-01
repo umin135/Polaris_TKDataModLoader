@@ -16,7 +16,7 @@ We will try to prepare more documentation and tutorials as soon as possible.
 
 ## Features
 - Custom moveset injection
-- !!!WIP - Custom item slots injection
+- Customization slots injection
 
 ## Requirements
 [Ultimate ASI Loader](https://github.com/umin135/Polaris_TKDataModLoader/blob/main/dinput8.dll)
