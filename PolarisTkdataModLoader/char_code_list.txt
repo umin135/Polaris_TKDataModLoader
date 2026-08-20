@@ -41,6 +41,7 @@ TGR|Fahkumram
 KNK|Armor King
 WKZ|Miary Zo
 KER|Kunimitsu
+USI|Bob
 DEK|Practice Dummy
 XXA|Angel Jin
 XXB|True Devil Kazuya
