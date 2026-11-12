@@ -42,6 +42,7 @@ KNK|Armor King
 WKZ|Miary Zo
 KER|Kunimitsu
 USI|Bob
+INU|Roger
 DEK|Practice Dummy
 XXA|Angel Jin
 XXB|True Devil Kazuya
